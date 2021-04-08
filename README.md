@@ -2,8 +2,8 @@
 
 MAC OS Clang++
 ```
-##Make
+Make
 to build
 
-##./main
+./main
 to run
